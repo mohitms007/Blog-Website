@@ -1,9 +1,7 @@
-# Blog-website-with-backend
-My first backend Website in which we can write a diary and changes will get backed up to your server using Express,Nodejs and EJS
-
-## Minimalistic website with less clutter and all content.
+# Blog-website-with-backend, less clutter and all content.
+Dyamic Website made from Nodejs,Express,Ejs and HTML/CSS.
 
 ### Intructions to use this website as a Template:
-    1. compose with going to "{server-host}/compose"
-    2. Install all the packages needed with npm install.
-    3. ENJOY!!
+    1. Install all the packages needed with npm install.
+    2. Compose with going to "{server-host}/compose".
+    3. You can also host it on Heroku after that and maintain your blog or diary from their.
